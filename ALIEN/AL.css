@@ -16,3 +16,9 @@ h2{
     border-style: outset;
     border-color: rgb(124, 191, 43) rgba( 124, 191, 43, 0.2);
 }
+.rest{
+    color: rgb(2, 156, 2);
+    background-color: rgb(0, 28, 0);
+    border-style: outset;
+    border-color: rgb(0, 255, 0);
+}
